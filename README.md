@@ -1,7 +1,7 @@
 
 <h2> Hi , My name`s Michael 👋</h2>
 
-I'm a software developer based in Moldova, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm a software developer based in Moldova, specializing in building exceptional backend, web(spa, pwa, ssr), and mobile applications, and everything in between.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

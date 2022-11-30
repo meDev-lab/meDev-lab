@@ -19,7 +19,7 @@ I'm a software developer based in Moldova, specializing in building exceptional 
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
 - 🖌️ &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
-  ![MySQL](https://img.shields.io/badge/-Miro-0A1A2F?style=flat&logo=miro&logoColor=f7bf2f)
+  ![MySQL](https://img.shields.io/badge/-Miro-0A1A2F?style=flat&logo=miro)
   ![Postgresql](https://img.shields.io/badge/-Sketch-0A1A2F?style=flat&logo=sketch)
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)

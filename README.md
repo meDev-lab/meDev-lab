@@ -18,11 +18,13 @@ I'm a software developer based in Moldova, specializing in building exceptional 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
-- 🛢 &nbsp;Cloud:&nbsp;
+- ☁️ &nbsp;Cloud:&nbsp;
   ![Amazon](https://img.shields.io/badge/-Amazon-0A1A2F?style=flat&logo=amazon)
   ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
   ![Heroku](https://img.shields.io/badge/-Heroku-0A1A2F?style=flat&logo=heroku)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-0A1A2F?style=flat&logo=cloudflare)
+- 🧰 &nbsp;Tools:&nbsp;
+  ![React Native](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
 - 🖌️ &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![MySQL](https://img.shields.io/badge/-Miro-0A1A2F?style=flat&logo=miro)

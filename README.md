@@ -26,6 +26,7 @@ I'm a software developer based in Moldova, specializing in building exceptional 
 - 🧰 &nbsp;Tools:&nbsp;
   ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
   ![Fastlane](https://img.shields.io/badge/-Fastlane-0A1A2F?style=flat&logo=fastlane)
+  ![Sentry](https://img.shields.io/badge/-Sentry-0A1A2F?style=flat&logo=sentry)
 - 🖌️ &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![MySQL](https://img.shields.io/badge/-Miro-0A1A2F?style=flat&logo=miro)

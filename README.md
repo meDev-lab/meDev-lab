@@ -24,4 +24,4 @@ I'm a software developer based in Moldova, specializing in building exceptional 
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Vim](https://img.shields.io/badge/-Vim-0A1A2F?style=flat&logo=vim&logoColor=007ACC)
-
+  ![Webstorm](https://img.shields.io/badge/-WebStorm-0A1A2F?style=flat&logo=webstorm)

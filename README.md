@@ -24,7 +24,8 @@ I'm a software developer based in Moldova, specializing in building exceptional 
   ![Heroku](https://img.shields.io/badge/-Heroku-0A1A2F?style=flat&logo=heroku)
   ![Cloudflare](https://img.shields.io/badge/-Cloudflare-0A1A2F?style=flat&logo=cloudflare)
 - 🧰 &nbsp;Tools:&nbsp;
-  ![React Native](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
+  ![Docker](https://img.shields.io/badge/-Docker-0A1A2F?style=flat&logo=docker)
+  ![Fastlane](https://img.shields.io/badge/-Fastlane-0A1A2F?style=flat&logo=fastlane)
 - 🖌️ &nbsp;Design:&nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
   ![MySQL](https://img.shields.io/badge/-Miro-0A1A2F?style=flat&logo=miro)

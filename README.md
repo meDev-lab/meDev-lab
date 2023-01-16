@@ -11,6 +11,7 @@ I'm a software developer based in Moldova, specializing in building exceptional 
   ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
   ![Koa.js](https://img.shields.io/badge/-Koa.js-0A1A2F?style=flat&logo=koa)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=GraphQL&logoColor=da0093)
+  ![GraphQL](https://img.shields.io/badge/-Wordpress-0A1A2F?style=flat&logo=Wordpress)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)

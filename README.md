@@ -6,15 +6,15 @@ I'm a software developer based in Moldova (developing as programmer since 2008),
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📱 &nbsp;Mobile:&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+  ![React Native](https://img.shields.io/badge/React%20Native-4%20yr.-green?labelColor=0A1A2F&logo=React)
 - 🗄 &nbsp;Backend:&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
-  ![Koa.js](https://img.shields.io/badge/-Koa.js-0A1A2F?style=flat&logo=koa)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-0A1A2F?style=flat&logo=GraphQL&logoColor=da0093)
-  ![GraphQL](https://img.shields.io/badge/-Wordpress-0A1A2F?style=flat&logo=Wordpress)
+  ![Node.js](https://img.shields.io/badge/Node.js-2%20yr.-green?labelColor=0A1A2F&logo=node.js)
+  ![Koa.js](https://img.shields.io/badge/Koa.js-2%20yr.-green?labelColor=0A1A2F&logo=koa)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-1.5%20yr.-green?labelColor=0A1A2F&logo=GraphQL&logoColor=da0093)
+  ![Wordpress](https://img.shields.io/badge/Wordpress-2%20yr.-green?labelColor=0A1A2F&logo=GraphQL&logoColor=0073aa)
 - 🌐 &nbsp;Frontend:&nbsp;
-  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+  ![React](https://img.shields.io/badge/React-3%20yr.-green?labelColor=0A1A2F&logo=React)
+  ![Next.js](https://img.shields.io/badge/Next.js-2%20yr.-green?labelColor=0A1A2F&logo=next.js)
 - 💎 &nbsp;UI-Kit:&nbsp;
   ![Tailwind UI](https://img.shields.io/badge/-Tailwind%20UI-0A1A2F?style=flat&logo=tailwindcss)
   ![Material UI](https://img.shields.io/badge/-Material%20UI-0A1A2F?style=flat&logo=mui)

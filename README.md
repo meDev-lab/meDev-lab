@@ -1,7 +1,7 @@
 
 <h2> Hi , My name`s Michael 👋</h2>
 
-I'm a software developer based in Moldova, specializing in building exceptional backend, web(spa, pwa, ssr), and cross-platform mobile applications, and everything in between.
+I'm a software developer based in Moldova (developing as programmer since 2008), specializing in building exceptional backend, web(spa, pwa, ssr), and cross-platform mobile applications, and everything in between.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -15,6 +15,10 @@ I'm a software developer based in Moldova, specializing in building exceptional 
 - 🌐 &nbsp;Frontend:&nbsp;
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-0A1A2F?style=flat&logo=next.js)
+- 💎 &nbsp;UI-Kit:&nbsp;
+  ![Tailwind UI](https://img.shields.io/badge/-Tailwind%20UI-0A1A2F?style=flat&logo=tailwindcss)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-0A1A2F?style=flat&logo=mui)
+  ![Storybook](https://img.shields.io/badge/-Storybook-0A1A2F?style=flat&logo=storybook)
 - 🛢 &nbsp;Database:&nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)

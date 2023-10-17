@@ -1,7 +1,7 @@
 
 <h2> Hi , My name`s Michael 👋</h2>
 
-I'm a software developer based in Moldova (developing as programmer since 2008), specializing in building exceptional backend, web(spa, pwa, ssr), and cross-platform mobile applications, and everything in between.
+I'm a mobile developer (developing as programmer since 2008), specializing in building exceptional backend, web(spa, pwa, ssr), and cross-platform mobile applications, and everything in between.
 
 CV: [Download](https://drive.google.com/file/d/1qIJsFz2jf_zQ2K80nhEsHprZpTax992b/view?usp=share_link)
 
